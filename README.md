@@ -7,11 +7,7 @@ This repository contains **C language source codes** written and explained in my
 👉 Learn C programming step by step with real examples.
 
 ## 📂 Repository Structure
-- Basics of C
-- Operators & Conditions
-- Loops & Functions
-- Arrays, Strings & Pointers
-- Mini Projects in C
+- Lab numbers with mentioned parts (based on CUI Lab Manual)
 
 Each folder matches a **specific video**.
 

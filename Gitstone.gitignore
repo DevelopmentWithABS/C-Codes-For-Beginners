@@ -1,0 +1,30 @@
+# Compiled Object files
+*.o
+*.out
+*.exe
+
+# Executables
+a.out
+main
+program
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+/build/
+/bin/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
